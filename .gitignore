@@ -1,0 +1,6 @@
+venv
+.env
+.env.example
+__pycache__/
+*.py[cod]
+development-459804-6c28110ad021.json
